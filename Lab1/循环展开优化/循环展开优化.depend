@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743093376 source:e:\并行实验模板\code\循环展开优化\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
